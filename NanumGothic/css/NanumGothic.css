@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+/* ----------------------------------------------------------------------------------------------------
+    ## font-family: 'Nanum Gothic', sans-serif;
+    ## Weight Type - 4 Type
+       font-weight: 300;
+       font-weight: 400;
+       font-weight: 700;
+       font-weight: 800;
+---------------------------------------------------------------------------------------------------- */
+@font-face {
+    font-family: 'Nanum Gothic';
+    font-style: normal;
+    font-weight: 300;
+    src:url('../fonts/NanumGothic/NanumGothic-Light.eot');
+    src:url('../fonts/NanumGothic/NanumGothic-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NanumGothic/NanumGothic-Light.woff') format('woff'),
+        url('../fonts/NanumGothic/NanumGothic-Light.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Nanum Gothic';
+    font-style: normal;
+    font-weight: 400;
+    src:url('../fonts/NanumGothic/NanumGothic-Regular.eot');
+    src:url('../fonts/NanumGothic/NanumGothic-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NanumGothic/NanumGothic-Regular.woff') format('woff'),
+        url('../fonts/NanumGothic/NanumGothic-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Nanum Gothic';
+    font-style: normal;
+    font-weight: 700;
+    src:url('../fonts/NanumGothic/NanumGothic-Bold.eot');
+    src:url('../fonts/NanumGothic/NanumGothic-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NanumGothic/NanumGothic-Bold.woff') format('woff'),
+        url('../fonts/NanumGothic/NanumGothic-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Nanum Gothic';
+    font-style: normal;
+    font-weight: 800;
+    src:url('../fonts/NanumGothic/NanumGothic-ExtraBold.eot');
+    src:url('../fonts/NanumGothic/NanumGothic-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NanumGothic/NanumGothic-ExtraBold.woff') format('woff'),
+        url('../fonts/NanumGothic/NanumGothic-ExtraBold.ttf') format('truetype');
+}

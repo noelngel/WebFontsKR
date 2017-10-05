@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+/* ----------------------------------------------------------------------------------------------------
+    ## font-family: 'Nanum Myeongjo', serif;
+    ## Weight Type - 3 Type
+       font-weight: 400;
+       font-weight: 600;
+       font-weight: 700;
+---------------------------------------------------------------------------------------------------- */
+@font-face {
+    font-family: 'Nanum Myeongjo';
+    font-style: normal;
+    font-weight: 400;
+    src:url('../fonts/NanumMyeongjo/NanumMyeongjo-Regular.eot');
+    src:url('../fonts/NanumMyeongjo/NanumMyeongjo-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NanumMyeongjo/NanumMyeongjo-Regular.woff2') format('woff2'),
+        url('../fonts/NanumMyeongjo/NanumMyeongjo-Regular.woff') format('woff'),
+        url('../fonts/NanumMyeongjo/NanumMyeongjo-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Nanum Myeongjo';
+    font-style: normal;
+    font-weight: 600;
+    src:url('../fonts/NanumMyeongjo/NanumMyeongjo-Bold.eot');
+    src:url('../fonts/NanumMyeongjo/NanumMyeongjo-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NanumMyeongjo/NanumMyeongjo-Bold.woff2') format('woff2'),
+        url('../fonts/NanumMyeongjo/NanumMyeongjo-Bold.woff') format('woff'),
+        url('../fonts/NanumMyeongjo/NanumMyeongjo-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Nanum Myeongjo';
+    font-style: normal;
+    font-weight: 700;
+    src:url('../fonts/NanumMyeongjo/NanumMyeongjo-ExtraBold.eot');
+    src:url('../fonts/NanumMyeongjo/NanumMyeongjo-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NanumMyeongjo/NanumMyeongjo-ExtraBold.woff2') format('woff2'),
+        url('../fonts/NanumMyeongjo/NanumMyeongjo-ExtraBold.woff') format('woff'),
+        url('../fonts/NanumMyeongjo/NanumMyeongjo-ExtraBold.ttf') format('truetype');
+}
