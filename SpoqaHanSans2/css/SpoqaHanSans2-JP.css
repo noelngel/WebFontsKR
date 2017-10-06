@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+/* ----------------------------------------------------------------------------------------------------
+    ## font-family: 'Spoqa Han Sans JP', sans-serif;
+    ## Weight Type - 4 Type
+       font-weight: 100;
+       font-weight: 300;
+       font-weight: 400;
+       font-weight: 700;
+---------------------------------------------------------------------------------------------------- */
+@font-face {
+    font-family: 'Spoqa Han Sans2 JP';
+    src: local('Spoqa Han Sans Thin'),
+    url('../fonts/SpoqaHanSans2/jp/SpoqaHanSans2JP-Thin.woff2') format('woff2'),
+    url('../fonts/SpoqaHanSans2/jp/SpoqaHanSans2JP-Thin.woff') format('woff'),
+    url('../fonts/SpoqaHanSans2/jp/SpoqaHanSans2JP-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Spoqa Han Sans2 JP';
+    src: local('Spoqa Han Sans Light'),
+    url('../fonts/SpoqaHanSans2/jp/SpoqaHanSans2JP-Light.woff2') format('woff2'),
+    url('../fonts/SpoqaHanSans2/jp/SpoqaHanSans2JP-Light.woff') format('woff'),
+    url('../fonts/SpoqaHanSans2/jp/SpoqaHanSans2JP-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Spoqa Han Sans2 JP';
+    src: local('Spoqa Han Sans Regular'),
+    url('../fonts/SpoqaHanSans2/jp/SpoqaHanSans2JP-Regular.woff2') format('woff2'),
+    url('../fonts/SpoqaHanSans2/jp/SpoqaHanSans2JP-Regular.woff') format('woff'),
+    url('../fonts/SpoqaHanSans2/jp/SpoqaHanSans2JP-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Spoqa Han Sans2 JP';
+    src: local('Spoqa Han Sans Bold'),
+    url('../fonts/SpoqaHanSans2/jp/SpoqaHanSans2JP-Bold.woff2') format('woff2'),
+    url('../fonts/SpoqaHanSans2/jp/SpoqaHanSans2JP-Bold.woff') format('woff'),
+    url('../fonts/SpoqaHanSans2/jp/SpoqaHanSans2JP-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
