@@ -9,31 +9,31 @@
 ---------------------------------------------------------------------------------------------------- */
 @font-face {
     font-family: 'Nanum Myeongjo';
-    font-style: normal;
+    src: url('../fonts/NanumMyeongjo/NanumMyeongjo-Regular.eot');
+    src: url('../fonts/NanumMyeongjo/NanumMyeongjo-Regular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/NanumMyeongjo/NanumMyeongjo-Regular.woff2') format('woff2'),
+         url('../fonts/NanumMyeongjo/NanumMyeongjo-Regular.woff') format('woff'),
+         url('../fonts/NanumMyeongjo/NanumMyeongjo-Regular.ttf') format('truetype');
     font-weight: 400;
-    src:url('../fonts/NanumMyeongjo/NanumMyeongjo-Regular.eot');
-    src:url('../fonts/NanumMyeongjo/NanumMyeongjo-Regular.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/NanumMyeongjo/NanumMyeongjo-Regular.woff2') format('woff2'),
-        url('../fonts/NanumMyeongjo/NanumMyeongjo-Regular.woff') format('woff'),
-        url('../fonts/NanumMyeongjo/NanumMyeongjo-Regular.ttf') format('truetype');
+    font-style: normal;
 }
 @font-face {
     font-family: 'Nanum Myeongjo';
-    font-style: normal;
+    src: url('../fonts/NanumMyeongjo/NanumMyeongjo-Bold.eot');
+    src: url('../fonts/NanumMyeongjo/NanumMyeongjo-Bold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/NanumMyeongjo/NanumMyeongjo-Bold.woff2') format('woff2'),
+         url('../fonts/NanumMyeongjo/NanumMyeongjo-Bold.woff') format('woff'),
+         url('../fonts/NanumMyeongjo/NanumMyeongjo-Bold.ttf') format('truetype');
     font-weight: 600;
-    src:url('../fonts/NanumMyeongjo/NanumMyeongjo-Bold.eot');
-    src:url('../fonts/NanumMyeongjo/NanumMyeongjo-Bold.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/NanumMyeongjo/NanumMyeongjo-Bold.woff2') format('woff2'),
-        url('../fonts/NanumMyeongjo/NanumMyeongjo-Bold.woff') format('woff'),
-        url('../fonts/NanumMyeongjo/NanumMyeongjo-Bold.ttf') format('truetype');
+    font-style: normal;
 }
 @font-face {
     font-family: 'Nanum Myeongjo';
-    font-style: normal;
+    src: url('../fonts/NanumMyeongjo/NanumMyeongjo-ExtraBold.eot');
+    src: url('../fonts/NanumMyeongjo/NanumMyeongjo-ExtraBold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/NanumMyeongjo/NanumMyeongjo-ExtraBold.woff2') format('woff2'),
+         url('../fonts/NanumMyeongjo/NanumMyeongjo-ExtraBold.woff') format('woff'),
+         url('../fonts/NanumMyeongjo/NanumMyeongjo-ExtraBold.ttf') format('truetype');
     font-weight: 700;
-    src:url('../fonts/NanumMyeongjo/NanumMyeongjo-ExtraBold.eot');
-    src:url('../fonts/NanumMyeongjo/NanumMyeongjo-ExtraBold.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/NanumMyeongjo/NanumMyeongjo-ExtraBold.woff2') format('woff2'),
-        url('../fonts/NanumMyeongjo/NanumMyeongjo-ExtraBold.woff') format('woff'),
-        url('../fonts/NanumMyeongjo/NanumMyeongjo-ExtraBold.ttf') format('truetype');
+    font-style: normal;
 }
